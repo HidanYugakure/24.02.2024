@@ -50,4 +50,33 @@ color:aqua;
     font-style: normal;
     vertical-align: baseline;
 }
-
+.mainoverage-left{
+    width: 65%;
+}
+.mainoverage-right{
+    width: 23%;
+}
+.prod{
+ width: 35%;
+}
+.mainoverage img{
+ width: 100%;
+}
+.prodact-content-each a{
+    text-decoration: none;
+    color: black;
+}
+.prodact-content-each ul li a{
+    list-style-type: circle;
+    text-decoration: none;
+    color: black;
+}
+.prodact-content-each ul li a{
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid gray;
+}
+.prodact-content-each p{
+    text-decoration: none;
+    color: black;
+}
